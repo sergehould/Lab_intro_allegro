@@ -1,0 +1,56 @@
+﻿'win32_project2.exe': Loaded 'C:\serge\Langage_programmation\gaming\allegro\visual_studio_projects\win32_project2\Debug\win32_project2.exe', Symbols loaded.
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\allegro-4.4.2-md.dll', Binary was not built with debug information.
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\ddraw.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\msvcrt.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\user32.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\gdi32.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\lpk.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\usp10.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\advapi32.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\sechost.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\rpcrt4.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\sspicli.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\cryptbase.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\dciman32.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\setupapi.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\oleaut32.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\ole32.dll', Symbols loaded.
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\devobj.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\dwmapi.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\dsound.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\winmm.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\powrprof.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\msvcr100.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\imm32.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\msctf.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\uxtheme.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\igdumd32.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\dinput.dll', Cannot find or open the PDB file
+'win32_project2.exe': Unloaded 'C:\Windows\SysWOW64\dinput.dll'
+The thread 'Win32 Thread' (0x3044) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x303c) has exited with code 0 (0x0).
+'win32_project2.exe': Unloaded 'C:\Windows\SysWOW64\igdumd32.dll'
+'win32_project2.exe': Loaded 'C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\version.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Program Files\ThinkPad\Bluetooth Software\syswow64\BtMmHook.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\shell32.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\shlwapi.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\psapi.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\oleacc.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\clbcatq.dll', Symbols loaded (source information stripped).
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\dinput.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\hid.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\wintrust.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\crypt32.dll', Cannot find or open the PDB file
+'win32_project2.exe': Loaded 'C:\Windows\SysWOW64\msasn1.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x313c) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x3290) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x30fc) has exited with code 0 (0x0).
+'win32_project2.exe': Unloaded 'C:\Windows\SysWOW64\dinput.dll'
+'win32_project2.exe': Unloaded 'C:\Windows\SysWOW64\hid.dll'
+The program '[13044] win32_project2.exe: Native' has exited with code 0 (0x0).
